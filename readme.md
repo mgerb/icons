@@ -6,6 +6,7 @@ This repo contains custom icons I've made with [Inkscape](https://inkscape.org/)
 
 ![heart](./icons/search.svg)
 ![heart](./icons/comment.svg)
+![heart](./icons/comment-fill.svg)
 ![heart](./icons/heart.svg)
 ![heart](./icons/heart-fill.svg)
 ![heart](./icons/up-arrow.svg)
