@@ -1,0 +1,21 @@
+{
+  "name": "icons",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "svgo": "svgo ./icons/*.svg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgerb/icons.git"
+  },
+  "author": "Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgerb/icons/issues"
+  },
+  "homepage": "https://github.com/mgerb/icons#readme",
+  "dependencies": {
+    "svgo": "^1.2.1"
+  }
+}

@@ -1,15 +1,22 @@
 # Icons
 
-This repo contains custom icons I've made with [Inkscape](https://inkscape.org/).
+Custom icons I made with [Inkscape](https://inkscape.org/).
 
-[svomg](https://github.com/jakearchibald/svgomg) is used to optimize the icons.
+[svgo](https://github.com/svg/svgo) is used to optimize icons.
 
-![heart](./icons/search.svg)
-![heart](./icons/comment.svg)
-![heart](./icons/comment-fill.svg)
-![heart](./icons/heart.svg)
-![heart](./icons/heart-fill.svg)
-![heart](./icons/up-arrow.svg)
-![heart](./icons/up-arrow-fill.svg)
-![heart](./icons/down-arrow.svg)
-![heart](./icons/down-arrow-fill.svg)
+![icon](./icons/search.svg)
+![icon](./icons/comment.svg)
+![icon](./icons/comment-fill.svg)
+![icon](./icons/heart.svg)
+![icon](./icons/heart-fill.svg)
+![icon](./icons/up-arrow.svg)
+![icon](./icons/up-arrow-fill.svg)
+![icon](./icons/down-arrow.svg)
+![icon](./icons/down-arrow-fill.svg)
+
+![icon](./icons/dots.svg)
+![icon](./icons/dots-fill.svg)
+![icon](./icons/tv.svg)
+![icon](./icons/tv-fill.svg)
+![icon](./icons/settings.svg)
+![icon](./icons/settings-fill.svg)
