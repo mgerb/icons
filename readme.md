@@ -20,3 +20,4 @@ Font folder generated with [icomoon](https://icomoon.io/app/#/select).
 ![icon](./icons/tv-fill.svg)
 ![icon](./icons/settings.svg)
 ![icon](./icons/settings-fill.svg)
+![icon](./icons/link.svg)
