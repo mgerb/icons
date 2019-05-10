@@ -21,3 +21,6 @@ Font folder generated with [icomoon](https://icomoon.io/app/#/select).
 ![icon](./icons/settings.svg)
 ![icon](./icons/settings-fill.svg)
 ![icon](./icons/link.svg)
+
+![icon](./icons/user.svg)
+![icon](./icons/user-fill.svg)
